@@ -1,0 +1,16 @@
+Category_ID,Category_Name,Department
+CAT001,Electronics,Electronics
+CAT002,Mobiles,Electronics
+CAT003,Laptops,Electronics
+CAT004,Fashion,Fashion
+CAT005,Footwear,Fashion
+CAT006,Beauty,Beauty
+CAT007,Home & Kitchen,Home
+CAT008,Furniture,Home
+CAT009,Sports,Sports
+CAT010,Books,Books
+CAT011,Grocery,Grocery
+CAT012,Toys,Kids
+CAT013,Accessories,Fashion
+CAT014,Appliances,Home
+CAT015,Gaming,Electronics

@@ -1,0 +1,157 @@
+Product_ID,Product_Name,Category_ID,Brand,Price
+P0001,Sony Wireless Speaker 1,CAT001,Sony,37548
+P0002,Samsung Smart TV 2,CAT001,Samsung,19789
+P0003,Sony Digital Camera 3,CAT001,Sony,12895
+P0004,JBL Soundbar 4,CAT001,JBL,5665
+P0005,Sony Wireless Speaker 5,CAT001,Sony,30157
+P0006,Samsung Digital Camera 6,CAT001,Samsung,80407
+P0007,Sony Digital Camera 7,CAT001,Sony,27562
+P0008,JBL Soundbar 8,CAT001,JBL,30393
+P0009,Boat Digital Camera 9,CAT001,Boat,37963
+P0010,Sony Smart TV 10,CAT001,Sony,56892
+P0011,LG Bluetooth Headphones 11,CAT001,LG,21879
+P0012,Samsung Bluetooth Headphones 12,CAT001,Samsung,14896
+P0013,Samsung Redmi Note 1,CAT002,Samsung,14176
+P0014,OnePlus OnePlus Nord 2,CAT002,OnePlus,80631
+P0015,OnePlus Galaxy S Series 3,CAT002,OnePlus,61717
+P0016,Realme Galaxy S Series 4,CAT002,Realme,51115
+P0017,Samsung Realme Number Series 5,CAT002,Samsung,39927
+P0018,Realme OnePlus Nord 6,CAT002,Realme,77174
+P0019,Apple Galaxy S Series 7,CAT002,Apple,7506
+P0020,Apple OnePlus Nord 8,CAT002,Apple,11958
+P0021,Apple Galaxy S Series 9,CAT002,Apple,51323
+P0022,OnePlus Redmi Note 10,CAT002,OnePlus,84820
+P0023,OnePlus iPhone 11,CAT002,OnePlus,50020
+P0024,OnePlus iPhone 12,CAT002,OnePlus,89341
+P0025,Lenovo Pavilion 1,CAT003,Lenovo,81340
+P0026,Dell VivoBook 2,CAT003,Dell,33587
+P0027,Dell MacBook Air 3,CAT003,Dell,51235
+P0028,Lenovo VivoBook 4,CAT003,Lenovo,30285
+P0029,Lenovo Pavilion 5,CAT003,Lenovo,31521
+P0030,HP IdeaPad 6,CAT003,HP,54081
+P0031,Lenovo Pavilion 7,CAT003,Lenovo,29153
+P0032,Asus IdeaPad 8,CAT003,Asus,29369
+P0033,Apple MacBook Air 9,CAT003,Apple,85759
+P0034,Apple Inspiron 10,CAT003,Apple,36218
+P0035,Dell Inspiron 11,CAT003,Dell,75079
+P0036,Asus IdeaPad 12,CAT003,Asus,78122
+P0037,Roadster Jacket 1,CAT004,Roadster,6843
+P0038,Zara Jeans 2,CAT004,Zara,2566
+P0039,Puma Casual Shirt 3,CAT004,Puma,1789
+P0040,H&M T-Shirt 4,CAT004,H&M,2804
+P0041,Levis Casual Shirt 5,CAT004,Levis,10071
+P0042,H&M Casual Shirt 6,CAT004,H&M,6552
+P0043,Puma Casual Shirt 7,CAT004,Puma,8969
+P0044,Zara Jacket 8,CAT004,Zara,488
+P0045,H&M Jacket 9,CAT004,H&M,4671
+P0046,Zara T-Shirt 10,CAT004,Zara,5108
+P0047,Skechers Sneakers 1,CAT005,Skechers,7733
+P0048,Nike Sports Shoes 2,CAT005,Nike,8501
+P0049,Adidas Casual Shoes 3,CAT005,Adidas,2043
+P0050,Puma Casual Shoes 4,CAT005,Puma,10277
+P0051,Adidas Sneakers 5,CAT005,Adidas,6426
+P0052,Adidas Casual Shoes 6,CAT005,Adidas,8989
+P0053,Nike Casual Shoes 7,CAT005,Nike,5610
+P0054,Skechers Running Shoes 8,CAT005,Skechers,2132
+P0055,Puma Sports Shoes 9,CAT005,Puma,4223
+P0056,Nike Sneakers 10,CAT005,Nike,9595
+P0057,Lakme Face Wash 1,CAT006,Lakme,8262
+P0058,Lakme Serum 2,CAT006,Lakme,2360
+P0059,Maybelline Sunscreen 3,CAT006,Maybelline,9307
+P0060,Maybelline Moisturizer 4,CAT006,Maybelline,8945
+P0061,Minimalist Sunscreen 5,CAT006,Minimalist,3770
+P0062,Minimalist Lipstick 6,CAT006,Minimalist,11980
+P0063,Mamaearth Sunscreen 7,CAT006,Mamaearth,11304
+P0064,Mamaearth Sunscreen 8,CAT006,Mamaearth,8779
+P0065,Nivea Face Wash 9,CAT006,Nivea,4361
+P0066,Maybelline Face Wash 10,CAT006,Maybelline,5839
+P0067,Prestige Air Fryer 1,CAT007,Prestige,4637
+P0068,Milton Air Fryer 2,CAT007,Milton,1904
+P0069,Prestige Cookware Set 3,CAT007,Prestige,582
+P0070,Milton Cookware Set 4,CAT007,Milton,357
+P0071,Philips Cookware Set 5,CAT007,Philips,4311
+P0072,Milton Mixer Grinder 6,CAT007,Milton,4076
+P0073,Milton Air Fryer 7,CAT007,Milton,1183
+P0074,Pigeon Air Fryer 8,CAT007,Pigeon,3972
+P0075,Milton Dinner Set 9,CAT007,Milton,3434
+P0076,Milton Cookware Set 10,CAT007,Milton,894
+P0077,Nilkamal Bookshelf 1,CAT008,Nilkamal,57019
+P0078,Nilkamal Sofa 2,CAT008,Nilkamal,8600
+P0079,IKEA Office Chair 3,CAT008,IKEA,54272
+P0080,Pepperfry Office Chair 4,CAT008,Pepperfry,34091
+P0081,Wakefit Study Table 5,CAT008,Wakefit,71792
+P0082,Nilkamal Study Table 6,CAT008,Nilkamal,56796
+P0083,Wakefit Bookshelf 7,CAT008,Wakefit,62137
+P0084,Wakefit Office Chair 8,CAT008,Wakefit,59582
+P0085,Urban Ladder Office Chair 9,CAT008,Urban Ladder,8130
+P0086,Urban Ladder Office Chair 10,CAT008,Urban Ladder,13724
+P0087,Nike Yoga Mat 1,CAT009,Nike,6958
+P0088,Yonex Badminton Racket 2,CAT009,Yonex,3802
+P0089,Yonex Cricket Bat 3,CAT009,Yonex,2997
+P0090,Yonex Cricket Bat 4,CAT009,Yonex,6696
+P0091,Adidas Badminton Racket 5,CAT009,Adidas,4973
+P0092,Yonex Dumbbell Set 6,CAT009,Yonex,11144
+P0093,Yonex Yoga Mat 7,CAT009,Yonex,3411
+P0094,Adidas Yoga Mat 8,CAT009,Adidas,1258
+P0095,Puma Dumbbell Set 9,CAT009,Puma,1298
+P0096,Adidas Cricket Bat 10,CAT009,Adidas,1121
+P0097,McGraw Self Help Book 1,CAT010,McGraw,4219
+P0098,McGraw Data Science Book 2,CAT010,McGraw,565
+P0099,McGraw Fiction Novel 3,CAT010,McGraw,1622
+P0100,Penguin Programming Book 4,CAT010,Penguin,656
+P0101,HarperCollins Self Help Book 5,CAT010,HarperCollins,1082
+P0102,McGraw Data Science Book 6,CAT010,McGraw,4842
+P0103,McGraw Fiction Novel 7,CAT010,McGraw,771
+P0104,Bloomsbury Programming Book 8,CAT010,Bloomsbury,4730
+P0105,McGraw Business Book 9,CAT010,McGraw,2236
+P0106,HarperCollins Business Book 10,CAT010,HarperCollins,2055
+P0107,Aashirvaad Breakfast Cereal 1,CAT011,Aashirvaad,1172
+P0108,Aashirvaad Breakfast Cereal 2,CAT011,Aashirvaad,2690
+P0109,Tata Rice 3,CAT011,Tata,3854
+P0110,Amul Milk Powder 4,CAT011,Amul,919
+P0111,Tata Milk Powder 5,CAT011,Tata,1846
+P0112,Amul Atta 6,CAT011,Amul,1185
+P0113,Aashirvaad Rice 7,CAT011,Aashirvaad,2101
+P0114,Aashirvaad Atta 8,CAT011,Aashirvaad,1392
+P0115,Nestle Milk Powder 9,CAT011,Nestle,2578
+P0116,Amul Milk Powder 10,CAT011,Amul,164
+P0117,Mattel Doll 1,CAT012,Mattel,948
+P0118,Hot Wheels Doll 2,CAT012,Hot Wheels,1045
+P0119,LEGO Action Figure 3,CAT012,LEGO,1373
+P0120,Barbie Doll 4,CAT012,Barbie,1825
+P0121,Barbie Remote Car 5,CAT012,Barbie,2262
+P0122,Mattel Board Game 6,CAT012,Mattel,2157
+P0123,LEGO Building Blocks 7,CAT012,LEGO,3569
+P0124,Barbie Building Blocks 8,CAT012,Barbie,129
+P0125,Barbie Remote Car 9,CAT012,Barbie,2245
+P0126,Hot Wheels Board Game 10,CAT012,Hot Wheels,4619
+P0127,Mokobara Travel Bag 1,CAT013,Mokobara,458
+P0128,Fastrack Watch 2,CAT013,Fastrack,11621
+P0129,Titan Travel Bag 3,CAT013,Titan,890
+P0130,Casio Travel Bag 4,CAT013,Casio,9352
+P0131,Titan Wallet 5,CAT013,Titan,2388
+P0132,Fastrack Sunglasses 6,CAT013,Fastrack,6274
+P0133,Fastrack Sunglasses 7,CAT013,Fastrack,3741
+P0134,Titan Watch 8,CAT013,Titan,6094
+P0135,Wildcraft Wallet 9,CAT013,Wildcraft,10468
+P0136,Titan Backpack 10,CAT013,Titan,2962
+P0137,Bajaj Room Heater 1,CAT014,Bajaj,4748
+P0138,Bajaj Mixer 2,CAT014,Bajaj,55464
+P0139,Bajaj Mixer 3,CAT014,Bajaj,22366
+P0140,Philips Room Heater 4,CAT014,Philips,6575
+P0141,Morphy Richards Iron 5,CAT014,Morphy Richards,27658
+P0142,Morphy Richards Mixer 6,CAT014,Morphy Richards,41501
+P0143,Bajaj Iron 7,CAT014,Bajaj,4601
+P0144,Bajaj Room Heater 8,CAT014,Bajaj,44525
+P0145,Havells Electric Kettle 9,CAT014,Havells,38085
+P0146,Havells Trimmer 10,CAT014,Havells,53886
+P0147,Ant Esports Gaming Keyboard 1,CAT015,Ant Esports,5117
+P0148,Sony Gaming Keyboard 2,CAT015,Sony,24905
+P0149,Ant Esports Gaming Keyboard 3,CAT015,Ant Esports,6514
+P0150,Sony Gaming Headset 4,CAT015,Sony,58459
+P0151,Logitech Gaming Keyboard 5,CAT015,Logitech,58699
+P0152,Ant Esports Gaming Headset 6,CAT015,Ant Esports,16657
+P0153,Razer Gaming Headset 7,CAT015,Razer,26414
+P0154,Logitech Gaming Console 8,CAT015,Logitech,58654
+P0155,Sony Gaming Headset 9,CAT015,Sony,72075
+P0156,Microsoft Gaming Keyboard 10,CAT015,Microsoft,58031
